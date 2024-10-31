@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://blk3fty3i0ff6"]
+
+[ext_resource type="Texture2D" uid="uid://bpbvre1p854eo" path="res://assets/Roleta.png" id="1_u4bfx"]
+
+[node name="Roleta" type="Sprite2D"]
+position = Vector2(323, 323)
+scale = Vector2(0.184136, 0.184136)
+texture = ExtResource("1_u4bfx")
